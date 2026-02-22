@@ -1,4 +1,4 @@
-🚀 VectorShift Pipeline Builder
+🚀  Pipeline Builder
 
 A drag-and-drop visual pipeline builder built using React Flow (frontend) and FastAPI (backend).
 This project was developed as part of the VectorShift Frontend Technical Assessment.
